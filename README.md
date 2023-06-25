@@ -1,1 +1,1 @@
-# iris-DT-algo
+# iris Decision Tree Algorithm
